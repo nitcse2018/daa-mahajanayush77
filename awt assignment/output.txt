@@ -1,0 +1,11 @@
+
+FIRST NAME:AYUSH
+LAST NAME:MAHAJAN
+EMAIL:181210014@nitdelhi.ac.in
+DOB:07/07/2000
+CONTACT NUMBER:9999974787
+ADDRESS:delhi
+QUALIFICATIONS:Student at NIT Delhi
+SKILLS:C++, JAVA
+EXPERIENCE:NIL
+---------------------------------------------------------------
